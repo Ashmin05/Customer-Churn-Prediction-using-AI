@@ -111,7 +111,3 @@ The project covers the full data analytics + AI pipeline:
 
 **Top churn drivers (feature importance):** complaints raised, satisfaction score,
 days since last order, tenure, and engagement (hours on app / orders per month).
-
-## Author
-
-[Your Name] — AICTE | IBM SkillsBuild Data Analytics with AI Internship, 2026
